@@ -1,5 +1,4 @@
 #include "inc/motor.h"
-#include <avr/interrupt.h>
 
 #define MOTOR_STATUS_ON   PB3
 #define MOTOR_STATUS_OFF  PB1
